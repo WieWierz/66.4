@@ -7,7 +7,7 @@ class licz{
 	public:
 		
 		int a,b,c;
-		int dlugosc_ciagu;
+		int dlugosc_ciagu=0;
 		int max=0;
 		ifstream plik1;
 		
